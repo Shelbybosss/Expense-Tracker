@@ -115,7 +115,7 @@ body{
   position: fixed; /* or position: absolute; */
     bottom: 0;
     width: 100%; /* Ensure it stretches across the whole viewport */
-    background-color: #f0f0f0; /* Example background color */
+ /* Example background color */
     padding: 10px; /* Example padding */
 }
 
